@@ -1,0 +1,7 @@
+name = "YOUR_APP_NAME"
+account_id = "YOUR_ACCOUNT_ID"
+workers_dev = true
+compatibility_date = "2023-03-24"
+
+[build]
+command = "deno task build"
